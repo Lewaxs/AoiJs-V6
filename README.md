@@ -3,7 +3,7 @@
 <p> A high school student trying to gradually learn to code ❤ </p>
   
 <h1> ❔ About </h1>
-  <p> 🏷 My name is Tolga </p>
+  <p> 🏷 My name is Fırat </p>
   <p> 🤓 I am back-end developer </p>
   <p> 🏳 I live in Turkey </p>
   <p> 🖥 Favorite programming language <a href="https://tr.wikipedia.org/wiki/JavaScript"> Javascript </a> </p>
